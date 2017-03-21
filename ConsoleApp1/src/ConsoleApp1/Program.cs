@@ -10,6 +10,7 @@ namespace ConsoleApp1
         public void Main(string[] args)
         {
             Console.WriteLine("Master branch Line1");
+            Console.WriteLine("Feature1 branch Line1");
         }
     }
 }
