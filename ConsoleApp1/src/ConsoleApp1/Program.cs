@@ -11,6 +11,7 @@ namespace ConsoleApp1
         {
             Console.WriteLine("Master branch Line1");
             Console.WriteLine("Feature1 branch Line1");
+            Console.WriteLine("Feature1 branch Line2");
         }
     }
 }
